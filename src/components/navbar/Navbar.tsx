@@ -10,7 +10,7 @@ export const Navbar = () => {
           alt="Just_dev logo of agency"
           className="w-25 md:w-35"
         ></Image>
-        <ul className="flex items-center justify-between gap-4 text-md md:text-lg">
+        <ul className="flex items-center justify-between gap-6 text-md md:text-lg">
           <li className="cursor-pointer">Welcome</li>
           <li className="cursor-pointer">O mnie</li>
           <li className="cursor-pointer">Usługi</li>

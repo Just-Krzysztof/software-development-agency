@@ -16,6 +16,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'JustDev - agency',
   description: 'Taking your business to the next level',
+  icons: {
+    icon: '/Logo-small.png',
+    apple: '/Logo-small.png',
+  },
 }
 
 export default function RootLayout({
