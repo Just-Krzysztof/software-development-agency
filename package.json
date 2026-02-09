@@ -9,9 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
     "next": "16.1.6",
+    "prettier": "^3.8.1",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "stylelint": "^17.1.1",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-config-standard": "^40.0.0",
+    "stylelint-config-tailwindcss": "^1.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
