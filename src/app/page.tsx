@@ -13,11 +13,14 @@ export default function Home() {
               Tworzę skalowalne aplikacje webowe i mobilne, które rozwijają
               biznes
             </h1>
-            <p className="my-4 text-lg md:text-xl">
+            <p className="my-4 text-md md:text-xl">
               Full-Stack Developer & Architekt. Zamieniam Twoje pomysły w
               działające produkty, używając najnowszych technologii: React,
               Next.js, Node.js.
             </p>
+            <button className="py-2 px-4 border-2 text-sda-blue border-sda-blue rounded-xl font-bold shadow-card cursor-pointer">
+              Porozmawiajmy o projekcie
+            </button>
           </div>
         </div>
       </section>
